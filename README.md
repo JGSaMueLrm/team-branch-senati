@@ -1,4 +1,4 @@
-# Team-Branch-senati
+# Team-Branch-Senati
 Practica grupal usando ramas
 <<<<<<< HEAD
 =======
