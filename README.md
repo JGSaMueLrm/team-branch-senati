@@ -384,3 +384,141 @@ JavaScript funcional con:
 
 ---
 
+## 🖼️ Imágenes Requeridas
+
+### Especificaciones
+
+| Archivo | Tamaño | Formato | Uso |
+|---------|--------|---------|-----|
+| logo-senati.png | 455x128px | PNG | Navbar logo |
+| correo-electronico.png | 316x229px | PNG/JPG | Tarjeta correo |
+| biblioteca-online.png | 316x229px | PNG/JPG | Tarjeta biblioteca |
+| blackboard.png | 316x227px | PNG/JPG | Tarjeta Blackboard |
+| contenidos-curriculares.png | 316x229px | PNG/JPG | Tarjeta diseños |
+| biblioteca-proyectos.png | 316x229px | PNG/JPG | Tarjeta proyectos |
+| complementacion.png | 316x229px | PNG/JPG | Tarjeta titulación |
+| youtube.png | 316x229px | PNG/JPG | Tarjeta YouTube |
+| software.png | 316x229px | PNG/JPG | Tarjeta software |
+| preguntas-frecuentes.png | Variable | PNG/JPG | Banner FAQ |
+
+### Obtener Imágenes
+
+1. **Del sitio original**
+   - Abrir [campusonline.senati.edu.pe](https://campusonline.senati.edu.pe/)
+   - DevTools → Network → Images
+   - Descargar cada imagen
+
+2. **Crear propias**
+   - Usar Photoshop/GIMP
+   - Seguir paleta de colores SENATI
+   - Exportar en PNG con fondo transparente
+
+---
+
+## 👥 Equipo de Desarrollo
+
+**LOS SENATINOS** - Equipo de desarrollo SENATI
+
+### Contribuidores
+- Desarrollador Principal
+- Diseñador UI/UX
+- Tester QA
+
+### Cómo Contribuir
+
+1. **Fork** el proyecto
+2. **Crea** una rama (`git checkout -b feature/NuevaCaracteristica`)
+3. **Commit** tus cambios (`git commit -m 'Agregar nueva característica'`)
+4. **Push** a la rama (`git push origin feature/NuevaCaracteristica`)
+5. Abre un **Pull Request**
+
+---
+
+## 📄 Licencia
+
+Este proyecto es propiedad de **SENATI** - Servicio Nacional de Adiestramiento en Trabajo Industrial.
+
+© 2025 SENATI. Todos los derechos reservados.
+
+---
+
+## 📞 Contacto
+
+### SENATI - Campus Online
+
+- 📧 **Email**: soportevirtual@senati.pe
+- 📞 **Línea gratuita**: 0801-11100
+- 📞 **Central telefónica**: (01) 5149700
+- 🏢 **Sede Central**: Av. Alfredo Mendiola #3520, Independencia, Lima, Perú
+
+### Soporte Técnico
+
+Para reportar bugs o solicitar nuevas características:
+- Abre un [Issue en GitHub](https://github.com/TU-USUARIO/SENATI---TEAM/issues)
+- Envía un email a: soportevirtual@senati.pe
+
+---
+
+## 🔄 Changelog
+
+### v1.0.0 (Noviembre 2025)
+- ✅ Diseño inicial completo
+- ✅ Integración de 8 servicios
+- ✅ Responsive design implementado
+- ✅ Formulario de contacto funcional
+- ✅ Animaciones y efectos visuales
+- ✅ Video embebido de YouTube
+- ✅ Footer con información de contacto
+
+### Roadmap Futuro
+- [ ] Sistema de búsqueda de servicios
+- [ ] Sección de noticias/anuncios
+- [ ] Dashboard personalizado para usuarios
+- [ ] Integración con API de SENATI
+- [ ] Sistema de notificaciones push
+- [ ] Modo oscuro (dark mode)
+- [ ] PWA (Progressive Web App)
+- [ ] Accesibilidad WCAG 2.1 AAA
+- [ ] Multiidioma (ES/EN/QU)
+
+---
+
+## 🌟 Agradecimientos
+
+Agradecimientos especiales a:
+- SENATI por la oportunidad
+- El equipo de desarrollo
+- Los estudiantes e instructores que usan el sistema
+- La comunidad open source
+
+---
+
+## 📊 Estadísticas del Proyecto
+
+![GitHub repo size](https://img.shields.io/github/repo-size/TU-USUARIO/SENATI---TEAM?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/TU-USUARIO/SENATI---TEAM?style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues/TU-USUARIO/SENATI---TEAM?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/TU-USUARIO/SENATI---TEAM?style=social)
+
+---
+
+<div align="center">
+
+**Desarrollado con ❤️ por el equipo LOS SENATINOS para SENATI**
+
+[🔗 Visita el Campus Online oficial](https://campusonline.senati.edu.pe/)
+
+---
+
+<p>
+    <a href="https://github.com/Romari01/SENATI---TEAM" target="_blank">
+        <img src="https://img.shields.io/github/stars/Romari01/SENATI---TEAM?style=social" alt="GitHub Stars">
+        &nbsp; Dale una estrella en GitHub
+    </a>
+</p>
+
+<p>
+    ¿Quieres contribuir? Haz un <strong>fork</strong> y abre un <strong>Pull Request</strong>. Revisa la sección "Cómo Contribuir" arriba para más detalles.
+</p>
+
+</div>
