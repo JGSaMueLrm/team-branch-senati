@@ -1,2 +1,2 @@
-# team-branch-senati
+# Team-branch-senati
 Practica grupal usando ramas
