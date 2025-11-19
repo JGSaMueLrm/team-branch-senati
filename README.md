@@ -1,11 +1,6 @@
 # Team-Branch-Senati
 Practica grupal usando ramas
-<<<<<<< HEAD
-=======
 
-<<<<<<< HEAD
-=======
->>>>>>> main
 # 🎓 Campus Online SENATI
 
 ![SENATI](https://img.shields.io/badge/SENATI-Campus%20Online-e30613?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk+M9QDwADhgGAWjR9awAAAABJRU5ErkJggg==)
